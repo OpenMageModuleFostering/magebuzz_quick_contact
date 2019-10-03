@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/magebuzz_quick_contact",
+    "name": "OpenMageModuleFostering\/magebuzz_quick_contact",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Quick contact allows you to provide very quick contact form for customers to send feedback.",
     "authors": [
-    {
-        "name": "Magebuzz",
-        "email": "magebuzz@gmail.com"
-    }
-],
+        {
+            "name": "Magebuzz",
+            "email": "magebuzz@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
